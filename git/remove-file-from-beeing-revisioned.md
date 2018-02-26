@@ -6,7 +6,8 @@ you want to remove from beeing tracked. Be sure to add a file to '.gitignore'
 file before using this command to prevent git from
 re-track your file after another change made.
 
-#####Example:
+__Example:__
+
 File to untrack: myFile.js. 
 
 Command: `git rm --cached myFile.js`
