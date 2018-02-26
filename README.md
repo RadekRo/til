@@ -15,7 +15,7 @@ _Repository consists of 2 TILs and grows..._
 
 #### Git
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
-- [Keep tracking of moved file](git/keep-tracking-of-moved-file.md)
+- [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
 ---
 
 #### About
