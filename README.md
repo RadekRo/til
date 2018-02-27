@@ -20,7 +20,7 @@ _Repository consists of 2 TILs and grows..._
 
 #### About
 
-I have modeled myself on the [jbranchaud/til](https://github.com/jbranchaud/til) repository while
+I have taken pattern of the [jbranchaud/til](https://github.com/jbranchaud/til) repository while
 creating a template for this TIL repository.
 
 #### License
