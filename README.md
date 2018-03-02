@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 5 TILs and grows..._
+_Repository consists of 6 TILs and grows..._
 
 ---
 
@@ -22,6 +22,7 @@ _Repository consists of 5 TILs and grows..._
 
 #### React
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
+- [Using data to hold values inside tags](react/using-data-to-hold-values-inside-tags.md)
 
 #### Tools
 - [InVision Studio](tools/invision-studio.md)
