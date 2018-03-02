@@ -5,11 +5,11 @@ If you are making changes to your files using a wrongly chosen branch, you can
  
 __Usage:__
 
-`git stash` _Adding files to stash_
+`git stash` _Adding file's changes to stash_
 
 `git checkout [branch]` _Changing branch_
 
-`git stash apply` _Removing files from stash and adding them to current branch_
+`git stash apply` _Removing file's changes from stash and adding them to current branch_
 
 ---
 _Last update: 28 Feb 2018_ 
