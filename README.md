@@ -22,7 +22,7 @@ _Repository consists of 7 TILs and grows..._
 
 #### React
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
-- [Target attribute of an Event contructor](react/target-attribute-of-an-event-constructor.md)
+- [Target attribute of an event contructor](react/target-attribute-of-an-event-constructor.md)
 - [Using data to hold values inside tags](react/using-data-to-hold-values-inside-tags.md)
 
 #### Tools

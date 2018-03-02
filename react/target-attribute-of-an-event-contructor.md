@@ -1,4 +1,4 @@
-# Target attribute of an Event constructor
+# Target attribute of an event constructor
 
 Thanks to the target attribute you can pass the event values or other elements to
 the called function.
