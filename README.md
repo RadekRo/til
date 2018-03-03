@@ -3,13 +3,14 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 7 TILs and grows..._
+_Repository consists of 8 TILs and grows..._
 
 ---
 
 #### Categories:
 
 * [Git](#git)
+* [Markdown](#markdown)
 * [React](#react)
 * [Tools](#tools)
 
@@ -19,6 +20,10 @@ _Repository consists of 7 TILs and grows..._
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
+
+#### Markdown
+
+- [Cheatsheet](markdown/cheatsheet.md)
 
 #### React
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
