@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 8 TILs and grows..._
+_Repository consists of 9 TILs and grows..._
 
 ---
 
@@ -26,6 +26,7 @@ _Repository consists of 8 TILs and grows..._
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### React
+- [Json data file structure and retrieving data](json-data-file-structure-and-retrieving-data.md)
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
 - [Target attribute of an event contructor](react/target-attribute-of-an-event-constructor.md)
 - [Using data to hold values inside tags](react/using-data-to-hold-values-inside-tags.md)
