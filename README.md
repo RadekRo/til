@@ -3,13 +3,14 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 9 TILs and grows..._
+_Repository consists of 10 TILs and grows..._
 
 ---
 
 #### Categories:
 
 * [Git](#git)
+* [JavaScript](#javascript)
 * [Markdown](#markdown)
 * [React](#react)
 * [Tools](#tools)
@@ -21,12 +22,15 @@ _Repository consists of 9 TILs and grows..._
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
 
+#### JavaScript
+- [split() - cutting string to pieces via character](javascript/split()-cutting-string-to-pieces-via-character.md)
+
 #### Markdown
 
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### React
-- [Json data file structure and retrieving data](json-data-file-structure-and-retrieving-data.md)
+- [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
 - [Target attribute of an event contructor](react/target-attribute-of-an-event-constructor.md)
 - [Using data to hold values inside tags](react/using-data-to-hold-values-inside-tags.md)

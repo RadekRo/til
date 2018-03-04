@@ -39,4 +39,4 @@ componentDidMount() {
 }
 ```
 ---
-_Last update: 04 March 2018_ 
+_Last update: 04 Mar 2018_ 
