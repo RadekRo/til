@@ -4,15 +4,14 @@
 If you would like to cut your string using a specified character
 you can use split() method to do this.
 
-`Remember that the character which you are providing as a cutter
-will be distracted and removed from all the parts of the cutted string.`
+```Remember that the character which you are providing as a cutter will be distracted and removed from all the parts of the cutted string.```
 
 __Example:__
 
 ```
 const myString = 'Radek-Roclawski-IT';
 
-const myPieces = mystring.split('-');
+const myPieces = myString.split('-');
 
 // Returns:
 // myPieces = ['Radek', 'Roclawski', 'IT'];
