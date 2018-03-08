@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 10 TILs and grows..._
+_Repository consists of 11 TILs and grows..._
 
 ---
 
@@ -23,6 +23,7 @@ _Repository consists of 10 TILs and grows..._
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
 
 #### JavaScript
+- [repeat() - create string by multiplying other string](javascript/repeat()-create-string-by-multiplying-other-string.md)
 - [split() - cutting string to pieces via character](javascript/split()-cutting-string-to-pieces-via-character.md)
 
 #### Markdown
