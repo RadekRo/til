@@ -23,6 +23,7 @@ _Repository consists of 12 TILs and grows..._
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
 
 #### JavaScript
+- [concat() - joining two or more arrays in order](javascript/concat()-joining-two-or-more-arrays-in-order.md)
 - [new Set([]) - creating an object with a unique values](javascript/new-Set()-creating-an-object-with-a-unique-values.md)
 - [repeat() - create string by multiplying other string](javascript/repeat()-create-string-by-multiplying-other-string.md)
 - [split() - cutting string to pieces via character](javascript/split()-cutting-string-to-pieces-via-character.md)
