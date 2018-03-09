@@ -13,8 +13,7 @@ const newString = string.repeat(2);
 
 // Returns:
 // newString = 'AaAa'.
-
+```
 ---
 _Last update: 08 Mar 2018_ 
 
-```

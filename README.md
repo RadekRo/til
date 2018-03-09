@@ -23,6 +23,7 @@ _Repository consists of 11 TILs and grows..._
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
 
 #### JavaScript
+-[new Set([]) - creating an object with a unique values](javascript/new-Set([])creating-an-object-with-a-unique-values.md)
 - [repeat() - create string by multiplying other string](javascript/repeat()-create-string-by-multiplying-other-string.md)
 - [split() - cutting string to pieces via character](javascript/split()-cutting-string-to-pieces-via-character.md)
 
@@ -33,7 +34,7 @@ _Repository consists of 11 TILs and grows..._
 #### React
 - [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
-- [Target attribute of an event contructor](react/target-attribute-of-an-event-constructor.md)
+- [Target attribute of an event constructor](react/target-attribute-of-an-event-constructor.md)
 - [Using data to hold values inside tags](react/using-data-to-hold-values-inside-tags.md)
 
 #### Tools
