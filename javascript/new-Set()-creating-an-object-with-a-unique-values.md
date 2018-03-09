@@ -28,7 +28,8 @@ const mySet = new Set([...x]); // concat of x
 
 __Warning:__ 
 
-`NaN` in mySet is __equal__ to `NaN`. However `NaN !== NaN` in JS.
+`NaN` in `new Set` is __equal__ to `NaN`. However `NaN !== NaN` in JS.
+That means that `new Set([NaN, NaN])` returns as an object with one element: `NaN'.
 
 ---
 _Last update: 09 Mar 2018_ 
