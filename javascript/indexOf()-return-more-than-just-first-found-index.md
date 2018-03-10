@@ -35,7 +35,7 @@ while (idx != -1) {  // until reached -1 as a result
 }
 
 Finally we will have an array called indices with all the founded indexes of 
-numer 2.
+number 2.
 
 indices=[1, 4, 8];
 ```
