@@ -16,7 +16,7 @@ fruits.indexOf('banana', [1]) // Returns -1 because banana has index[0].
 fruits.indexOf('banana', [6]) // Returns -1 because array has only [0]-[4] indexes.
 fruits.indexOf('banana') // Default: starts from [0], returns: 0
 fruits.indexOf('banana', [0]) // Returns: 0
-fruits.indexOf('banana', [-2]) // Return: -1. Search starting index is [3].
+fruits.indexOf('banana', [-2]) // Returns: -1. Search starting index is [3].
 ``` 
 
 What about the situation when we have more than just one the same element in array
