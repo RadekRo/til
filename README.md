@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 13 TILs and grows..._
+_Repository consists of 14 TILs and grows..._
 
 ---
 
@@ -24,6 +24,7 @@ _Repository consists of 13 TILs and grows..._
 
 #### JavaScript
 - [concat() - joining two or more arrays in order](javascript/concat()-joining-two-or-more-arrays-in-order.md)
+- [indexOf() - return more than just first found index](javascript/indexOf()-return-more-than-just-first-found-index.md)
 - [new Set([]) - creating an object with a unique values](javascript/new-Set()-creating-an-object-with-a-unique-values.md)
 - [repeat() - create string by multiplying other string](javascript/repeat()-create-string-by-multiplying-other-string.md)
 - [split() - cutting string to pieces via character](javascript/split()-cutting-string-to-pieces-via-character.md)
