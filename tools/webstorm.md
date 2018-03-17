@@ -11,6 +11,7 @@ Solution:
 
 This command will change the user permissions
 to read/write to WebStorm dir to your current
-active user. 
+active user.
+
 ---
 _Last update: 15 Mar 2018_ 
