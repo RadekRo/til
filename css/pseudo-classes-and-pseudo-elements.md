@@ -1,7 +1,7 @@
 # pseudo-classes and pseudo-elements
-##### cheatsheet
+#### cheatsheet
 
-#### pseudo-classes
+### pseudo-classes
 
 __Refererred:__
 
@@ -24,7 +24,7 @@ __Others:__
 `:first-child` - first child of an element.
 `:last-child` - last child of an element.
 
-#### pseudo-elements
+### pseudo-elements
 
 `::first-line` - styling first line of the element's text.
 `::first-letter` - styling first letter of the element's text.
