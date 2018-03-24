@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 18 TILs and grows..._
+_Repository consists of 19 TILs and grows..._
 
 ---
 
@@ -21,6 +21,7 @@ _Repository consists of 18 TILs and grows..._
 
 #### CSS
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
+- [pseudo-classes and pseudo-elements](css/pseudo-classes-and-pseudo-elements.md)
 
 #### Git
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
@@ -28,7 +29,7 @@ _Repository consists of 18 TILs and grows..._
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
 
 #### HTML
-- [data-* attributes](html/data-attributes.md)
+- [data-* attributes](html/data-attributes.md))
 
 #### JavaScript
 - [concat() - joining two or more arrays in order](javascript/concat()-joining-two-or-more-arrays-in-order.md)
