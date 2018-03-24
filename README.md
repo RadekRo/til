@@ -9,6 +9,7 @@ _Repository consists of 16 TILs and grows..._
 
 #### Categories:
 
+* [CSS](#css)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Markdown](#markdown)
@@ -16,6 +17,9 @@ _Repository consists of 16 TILs and grows..._
 * [Tools](#tools)
 
 ---
+
+#### CSS
+- [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
 
 #### Git
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
