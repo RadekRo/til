@@ -1,5 +1,4 @@
 # pseudo-classes and pseudo-elements
-#### cheatsheet
 
 ### pseudo-classes
 
