@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 19 TILs and grows..._
+_Repository consists of 21 TILs and grows..._
 
 ---
 
@@ -21,9 +21,8 @@ _Repository consists of 19 TILs and grows..._
 
 #### CSS
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
-- [importing styles](css/importing-styles.md) // dopisać jutro - MDN @import
+- [importing styles](css/importing-styles.md)
 - [pseudo-classes and pseudo-elements](css/pseudo-classes-and-pseudo-elements.md)
-- [sprites](css/sprites.md) // do dopisania - blog.eduweb.pl/przyspiesz-swoja-strone-z-css-sprites/
 
 #### Git
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
