@@ -23,7 +23,7 @@ __Usage in current component:__ (where you are putting a button)
 
 ```
 handleSubmit = () => {
-        this.props.history.push('[loaction]');
+        this.props.history.push('[location]');
 };
 
 (...)
