@@ -20,7 +20,6 @@ _Repository consists of 19 TILs and grows..._
 ---
 
 #### CSS
-- [box-model](css/box-model.md) // do dopisania jutro - W3Schools
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
 - [importing styles](css/importing-styles.md) // dopisać jutro - MDN @import
 - [pseudo-classes and pseudo-elements](css/pseudo-classes-and-pseudo-elements.md)
