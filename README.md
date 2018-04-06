@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 21 TILs and grows..._
+_Repository consists of 22 TILs and grows..._
 
 ---
 
@@ -25,9 +25,10 @@ _Repository consists of 21 TILs and grows..._
 - [pseudo-classes and pseudo-elements](css/pseudo-classes-and-pseudo-elements.md)
 
 #### Git
+- [Adding and applying to stash](git/adding-and-applying-to-stash.md)
+- [Checking file changes](git/checking-file-changes.md)
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
-- [Adding and applying to stash](git/adding-and-applying-to-stash.md)
 
 #### HTML
 - [data-* attributes](html/data-attributes.md)
