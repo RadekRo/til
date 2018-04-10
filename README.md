@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 22 TILs and grows..._
+_Repository consists of 23 TILs and grows..._
 
 ---
 
@@ -40,6 +40,7 @@ _Repository consists of 22 TILs and grows..._
 - [new Set([]) - creating an object with a unique values](javascript/new-Set()-creating-an-object-with-a-unique-values.md)
 - [Object.keys/values/entries() - returning an array from an object](javascript/returning-an-array-from-an-object.md)
 - [repeat() - create string by multiplying other string](javascript/repeat()-create-string-by-multiplying-other-string.md)
+- [return smallest/biggest value from an Array](javascript/return-smallest-biggest-value-from-an-array.md)
 - [split() - cutting string to pieces via character](javascript/split()-cutting-string-to-pieces-via-character.md)
 
 #### Markdown
