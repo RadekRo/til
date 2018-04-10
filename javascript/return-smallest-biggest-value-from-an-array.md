@@ -1,6 +1,6 @@
 # Return smallest/biggest value from an array
 
-The easiest way to return a smallest od biggest value from an array is using of a 
+The easiest way to return a smallest od biggest value from an array is using a 
 combination of `concat` and `Math.max`, `Math.min`.
 
 __Example:__
