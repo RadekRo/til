@@ -26,6 +26,7 @@ _Repository consists of 23 TILs and grows..._
 
 #### Git
 - [Adding and applying to stash](git/adding-and-applying-to-stash.md)
+- [Checking exact date of the last commit](git/checking-exact-date-of-the-last-commit.md)
 - [Checking file changes](git/checking-file-changes.md)
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
