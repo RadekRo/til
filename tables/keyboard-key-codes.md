@@ -4,30 +4,19 @@ Useful table for cross-language programists.
 
 #### Aside keys
 
-| Key | Key Value |
-|:---|:---:|
-|Alt|18|
-|Arrow Down|40|
-|Arrow Left|37|
-|Arrow Right|39|
-|Arrow Up|38|
-|Backspace|8|
-|Caps Lock|20|
-|Ctrl|17|
-|Delete|46|
-|End|35|
-|Enter|13|
-|Esc|27|
-|Page Up|33|
-|Page Down|34|
-|Pause|19|
-|Print Src|44|
-|Scroll Lock|145|
-|Shift|16|
-|Spacebar|32|
-|Tab|9|
-|Home|36|
-|Insert|45|
+| Key | Key Value | Key | Key Value |
+|:---|:---:|:---|:---:|
+|Alt|18|Esc|27|
+|Arrow Down|40|Page Up|33|
+|Arrow Left|37|Page Down|34|
+|Arrow Right|39|Pause|19|
+|Arrow Up|38|Print Src|44|
+|Backspace|8|Scroll Lock|145|
+|Caps Lock|20|Shift|16|
+|Ctrl|17|Spacebar|32|
+|Delete|46|Tab|9|
+|End|35|Home|36|
+|Enter|13|Insert|45
 
 #### Numeric Keyboard
 
