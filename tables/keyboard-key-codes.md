@@ -116,7 +116,7 @@ Notice that small letters = capital letters. There is no special code for a capi
 |/|191|
 |'|192|
 |[|219|
-|\\|220|
+|\\\|220|
 |]|221|
 |`|222|
 
