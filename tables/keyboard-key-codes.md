@@ -20,24 +20,16 @@ Useful table for cross-language programists.
 
 #### Numeric Keyboard
 
-|Key|Key Code|
-|---|:---:|
-|(NumPad) 0| 96|
-|(NumPad) 1| 97|
-|(NumPad) 2| 98|
-|(NumPad) 3| 99|
-|(NumPad) 4| 100|
-|(NumPad) 5| 101|
-|(NumPad) 6| 102|
-|(NumPad) 7| 103|
-|(NumPad) 8| 104|
-|(NumPad) 9| 105|
-|(NumPad) *| 106|
-|(NumPad) +| 107|
-|(NumPad) -| 109|
-|(NumPad) .| 110|
-|(NumPad) /| 111|
-|Num Lock|144|
+| Key | Key Code | Key | Key Code |
+|:---|:---:|:---|:---:|
+|(NumPad) 0| 96|(NumPad) 8|104|
+|(NumPad) 1| 97|(NumPad) 9|105|
+|(NumPad) 2| 98|(NumPad) *|106|
+|(NumPad) 3| 99|(NumPad) +|107|
+|(NumPad) 4| 100|(NumPad) -|109|
+|(NumPad) 5| 101|(NumPad) .|110|
+|(NumPad) 6| 102|(NumPad) /|111|
+|(NumPad) 7| 103|Num Lock|144|
 
 #### Function Keys
 
