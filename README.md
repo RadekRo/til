@@ -1,7 +1,8 @@
 ## Developer's Notebook
-##### Created 26th of Feb 2018
+##### Created: 26th of February 2018
+###### Last Update: 26th of April 2020 
 
-> This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
+> This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
 _Repository consists of 25 TILs and grows..._
 
