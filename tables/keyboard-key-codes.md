@@ -26,6 +26,8 @@ Useful table for cross-language programists.
 |Shift|16|
 |Spacebar|32|
 |Tab|9|
+|Home|36|
+|Insert|45|
 
 #### Numeric Keyboard
 
