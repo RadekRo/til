@@ -15,6 +15,7 @@ _Repository consists of 23 TILs and grows..._
 * [JavaScript](#javascript)
 * [Markdown](#markdown)
 * [React](#react)
+* [Tables](#tables)
 * [Tools](#tools)
 
 ---
@@ -53,6 +54,9 @@ _Repository consists of 23 TILs and grows..._
 - [Pushing the address to browser history](react/pushing-the-address-to-browser-history.md)
 - [Target attribute of an event constructor](react/target-attribute-of-an-event-constructor.md)
 - [Using data to hold values inside tags](react/using-data-to-hold-values-inside-tags.md)
+
+#### Tables
+- [Keyboard Key Codes](tables/keyboard-key-codes.md)
 
 #### Tools
 - [InVision Studio](tools/invision-studio.md)
