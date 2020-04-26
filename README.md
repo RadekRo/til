@@ -3,7 +3,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of beeing remembered. 
 
-_Repository consists of 23 TILs and grows..._
+_Repository consists of 25 TILs and grows..._
 
 ---
 
@@ -71,6 +71,6 @@ creating a template for this TIL repository.
 
 #### License
 
-&copy; 2018 Radosław Rocławski
+&copy; 2018-2020 Radosław __"RadekRo"__ Rocławski
 
 This repository is licensed under the MIT license.
