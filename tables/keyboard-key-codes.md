@@ -119,3 +119,6 @@ Notice that small letters = capital letters. There is no special code for a capi
 |\|220|
 |]|221|
 |`|222|
+
+---
+_Last update: 26 April 2020_
