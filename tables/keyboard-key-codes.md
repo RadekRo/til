@@ -4,7 +4,7 @@ Useful table for cross-language programists.
 
 #### Aside keys
 
-| Key | Key Value | Key | Key Value |
+| Key | Key Code | Key | Key Code |
 |:---|:---:|:---|:---:|
 |Alt|18|Esc|27|
 |Arrow Down|40|Page Up|33|
@@ -33,20 +33,14 @@ Useful table for cross-language programists.
 
 #### Function Keys
 
-|Key|Key Code|
-|---|:---:|
-|F1| 112|
-|F2| 113|
-|F3| 114|
-|F4| 115|
-|F5| 116|
-|F6| 117|
-|F7| 118|
-|F8| 119|
-|F9| 120|
-|F10| 121|
-|F11| 122|
-|F12| 123|
+| Key | Key Code | Key | Key Code |
+|---|:---:|---|:---:|
+|F1| 112|F7|118|
+|F2| 113|F8|119|
+|F3| 114|F9|120|
+|F4| 115|F10|121|
+|F5| 116|F11|122|
+|F6| 117|F12|123|
 
 #### Alphanumeric & Marks
 Notice that small letters = capital letters. There is no special code for a capital letter. They are treated equally.
