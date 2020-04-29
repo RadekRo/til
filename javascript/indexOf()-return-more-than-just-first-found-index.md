@@ -28,7 +28,7 @@ __Solution:__
 ourArray = [1, 2, 3, 4, 2, 0, 9, 8, 2];
 
 indices=[];  // Builds an empty array fot indexes
-idx = ourArray.indexOf(2) // we are searching for index of '2' starting with deafault [0]
+idx = ourArray.indexOf(2) // we are searching for index of '2' starting with default [0]
 while (idx != -1) {  // until reached -1 as a result 
   indices.push(idx); // push the index to indices array
   idx = ourArray.indexOf(2, idx + 1); // upgrade searching index start by 1 

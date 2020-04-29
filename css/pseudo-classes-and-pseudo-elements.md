@@ -58,7 +58,7 @@ p::first-letter {
 }
 
 HTML:
-<p>Long time ago<br/> // First letter will have 20px size, this line will have the blue color
+<p>Long time ago<br/> // First letter will have 20px size, this line will have the red color
 In the Galaxy far far away...</p>
 ```
 ---
