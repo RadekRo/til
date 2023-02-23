@@ -4,7 +4,8 @@
 Cloning **remote** repository to current catalogue (creates subcatalogue with repository name!)\
 ```git clone <repository url address>```\
 Getting all current changes made to **remote** repository\
-```git pull origin <branch>```\
+```git pull origin <branch>```
+
 Show current **local** repository/branch status\
 ```git status```\
 Show all logs of **local** repository/branch (to exit logs press "q")\
@@ -16,7 +17,8 @@ Create new **local** branch\
 Switch on **local** branch\
 ```git checkout <branch>```\
 Merge current **local** branch (on witch you are currently set) with given *branch*\
-```git merge <branch>```\
+```git merge <branch>```
+
 Include *file* change in the next commit\
 ```git add <file>```\
 Include *all changes* in the next commit\
