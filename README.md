@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 29 TILs and grows..._
+_Repository consists of 30 TILs and grows..._
 
 ---
 
@@ -53,6 +53,7 @@ _Repository consists of 29 TILs and grows..._
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### Python
+- [Keyboard module](pyton/keyboard-module.md)
 - [Mergin two dicts](python/mergin-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
 - [Ternary operator](python/ternary-operator.md)
