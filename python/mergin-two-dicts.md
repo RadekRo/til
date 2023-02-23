@@ -11,7 +11,7 @@ z = {**a, **b}
 ```
 // Returns:
 ``` z = {"a": 2, "b": 2, "c": 1, "d": 3, "e": 2} ```\
-// Notice than if a key will reapet itself in the next merged dict it will be overwritten!
+// Notice than if a key will repeat itself in the next merged dict it will be overwritten!
 
 ---
 _Last update: 23 Feb 2023_ 
