@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 27 TILs and grows..._
+_Repository consists of 29 TILs and grows..._
 
 ---
 
@@ -55,6 +55,7 @@ _Repository consists of 27 TILs and grows..._
 #### Python
 - [Mergin two dicts](python/mergin-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
+- [Ternary operator](python/ternary-operator.md)
 
 #### React
 - [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
