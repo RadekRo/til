@@ -15,6 +15,7 @@ _Repository consists of 25 TILs and grows..._
 * [HTML](#html)
 * [JavaScript](#javascript)
 * [Markdown](#markdown)
+* [Python](#python)
 * [React](#react)
 * [Tables](#tables)
 * [Tools](#tools)
@@ -49,6 +50,9 @@ _Repository consists of 25 TILs and grows..._
 #### Markdown
 
 - [Cheatsheet](markdown/cheatsheet.md)
+
+#### Python
+- [Mergin two dicts](python/mergin-two-dicts.md)
 
 #### React
 - [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
