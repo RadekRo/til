@@ -1,4 +1,4 @@
-# Node.js
+# Node.js®
 
 __Link:__ [Node.js® HomePage](https://nodejs.org/en/)
 
