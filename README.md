@@ -53,7 +53,7 @@ _Repository consists of 30 TILs and grows..._
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### Python
-- [Keyboard module](pyton/keyboard-module.md)
+- [Keyboard module](python/keyboard-module.md)
 - [Mergin two dicts](python/mergin-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
 - [Ternary operator](python/ternary-operator.md)
