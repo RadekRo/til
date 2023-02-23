@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 34 TILs and grows..._
+_Repository consists of 35 TILs and grows..._
 
 ---
 
@@ -73,6 +73,7 @@ _Repository consists of 34 TILs and grows..._
 - [InVision Studio](tools/invision-studio.md)
 - [Node.js®](tools/node-js.md)
 - [TailWind CSS](tools/tailwind-css.md)
+- [Visual Studio Code](tools/visual-studio-code.md)
 - [WebStorm](tools/webstorm.md)
 
 ---
