@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 26th of April 2020 
+###### Last Update: 23rd of February 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 25 TILs and grows..._
+_Repository consists of 27 TILs and grows..._
 
 ---
 
@@ -53,6 +53,7 @@ _Repository consists of 25 TILs and grows..._
 
 #### Python
 - [Mergin two dicts](python/mergin-two-dicts.md)
+- [Reversing list](python/reversing-list.md)
 
 #### React
 - [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
@@ -76,6 +77,6 @@ creating a template for this TIL repository.
 
 #### License
 
-&copy; 2018-2020 Radosław __"RadekRo"__ Rocławski
+&copy; 2018-2023 Radosław __"RadekRo"__ Rocławski
 
 This repository is licensed under the MIT license.
