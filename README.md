@@ -54,6 +54,7 @@ _Repository consists of 38 TILs and grows..._
 
 #### Python
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
+- [Initializing lists filled with numbers](python/initializing-lists-filled-with-numbers.md)
 - [Keyboard module](python/keyboard-module.md)
 - [Mergin two dicts](python/mergin-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
