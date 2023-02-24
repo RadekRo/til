@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 38 TILs and grows..._
+_Repository consists of 39 TILs and grows..._
 
 ---
 
@@ -59,6 +59,7 @@ _Repository consists of 38 TILs and grows..._
 - [Mergin two dicts](python/mergin-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
 - [Reversing string](python/reversing-string.md)
+- [Split a single word into the list of characters](/python/split-a-single-word-into-the-list-of-characters.md)
 - [Ternary operator](python/ternary-operator.md)
 
 #### React

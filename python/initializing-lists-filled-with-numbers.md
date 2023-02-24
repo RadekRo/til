@@ -9,5 +9,6 @@ Example 2
 Result: `a = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2]`
 
 Cool, isn't it?
+
 ---
 _Last update: 24 Feb 2023_ 
