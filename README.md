@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 23rd of February 2023 
+###### Last Update: 24rd of February 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 36 TILs and grows..._
+_Repository consists of 37 TILs and grows..._
 
 ---
 
@@ -56,6 +56,7 @@ _Repository consists of 36 TILs and grows..._
 - [Keyboard module](python/keyboard-module.md)
 - [Mergin two dicts](python/mergin-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
+- [Reversing string](python/reversing-string.md)
 - [Ternary operator](python/ternary-operator.md)
 
 #### React
