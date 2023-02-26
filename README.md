@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 24rd of February 2023 
+###### Last Update: 26rd of February 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 39 TILs and grows..._
+_Repository consists of 40 TILs and grows..._
 
 ---
 
@@ -60,6 +60,7 @@ _Repository consists of 39 TILs and grows..._
 - [Reversing list](python/reversing-list.md)
 - [Reversing string](python/reversing-string.md)
 - [Split a single word into the list of characters](/python/split-a-single-word-into-the-list-of-characters.md)
+- [Swapping values of variables](/python/swapping-values-of-variables.md)
 - [Ternary operator](python/ternary-operator.md)
 
 #### React
