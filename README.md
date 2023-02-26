@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 40 TILs and grows..._
+_Repository consists of 41 TILs and grows..._
 
 ---
 
@@ -53,6 +53,7 @@ _Repository consists of 40 TILs and grows..._
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### Python
+- [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing lists filled with numbers](python/initializing-lists-filled-with-numbers.md)
 - [Keyboard module](python/keyboard-module.md)
