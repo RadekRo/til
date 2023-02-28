@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 26rd of February 2023 
+###### Last Update: 28th of February 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 41 TILs and grows..._
+_Repository consists of 42 TILs and grows..._
 
 ---
 
@@ -56,6 +56,7 @@ _Repository consists of 41 TILs and grows..._
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing lists filled with numbers](python/initializing-lists-filled-with-numbers.md)
+- [Inverting the dictionary](python/inverting-the-dictionary.md)
 - [Keyboard module](python/keyboard-module.md)
 - [Merging two dicts](python/merging-two-dicts.md)
 - [Reversing list](python/reversing-list.md)
