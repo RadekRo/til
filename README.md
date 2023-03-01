@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 43 TILs and grows..._
+_Repository consists of 44 TILs and grows..._
 
 ---
 
@@ -33,6 +33,7 @@ _Repository consists of 43 TILs and grows..._
 - [Checking exact date of the last commit](git/checking-exact-date-of-the-last-commit.md)
 - [Checking file changes](git/checking-file-changes.md)
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
+- [Recreating branch earlier deleted](git/recreating-branch-earlier-deleted.md)
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
 
 #### HTML
