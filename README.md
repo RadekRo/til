@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 28th of February 2023 
+###### Last Update: 6th of March 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 44 TILs and grows..._
+_Repository consists of 45 TILs and grows..._
 
 ---
 
@@ -61,6 +61,7 @@ _Repository consists of 44 TILs and grows..._
 - [Inverting the dictionary](python/inverting-the-dictionary.md)
 - [Keyboard module](python/keyboard-module.md)
 - [Merging two dicts](python/merging-two-dicts.md)
+- [Read/Write Exmaples of file operations](/python/read-write-ex-file-operations.md)
 - [Reversing list](python/reversing-list.md)
 - [Reversing string](python/reversing-string.md)
 - [Split a single word into the list of characters](/python/split-a-single-word-into-the-list-of-characters.md)
