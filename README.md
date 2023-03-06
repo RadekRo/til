@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 45 TILs and grows..._
+_Repository consists of 47 TILs and grows..._
 
 ---
 
@@ -54,6 +54,7 @@ _Repository consists of 45 TILs and grows..._
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### Python
+- [*args and *kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing empty spaces](python/initializing-empty-spaces.md)
@@ -61,11 +62,12 @@ _Repository consists of 45 TILs and grows..._
 - [Inverting the dictionary](python/inverting-the-dictionary.md)
 - [Keyboard module](python/keyboard-module.md)
 - [Merging two dicts](python/merging-two-dicts.md)
-- [Read/Write Exmaples of file operations](/python/read-write-ex-file-operations.md)
+- [Read/Write Exmaples of file operations](python/read-write-ex-file-operations.md)
 - [Reversing list](python/reversing-list.md)
 - [Reversing string](python/reversing-string.md)
-- [Split a single word into the list of characters](/python/split-a-single-word-into-the-list-of-characters.md)
-- [Swapping values of variables](/python/swapping-values-of-variables.md)
+- [Sorting a list of lists](python/sorting-a-list-of_lists.md)
+- [Split a single word into the list of characters](python/split-a-single-word-into-the-list-of-characters.md)
+- [Swapping values of variables](python/swapping-values-of-variables.md)
 - [Ternary operator](python/ternary-operator.md)
 
 #### React

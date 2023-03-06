@@ -29,6 +29,7 @@
             row = separator.join(record)
             file.write(row + "\n")```
 
-Examples by CodeCool IT Academy.
+Examples by __CodeCool__ IT Academy (_www.codecool.com_)
+
 ---
 _Last update: 6 March 2023_
