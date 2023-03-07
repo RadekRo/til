@@ -24,7 +24,7 @@ multiply(1, 5, 6, 10) // Returns: 300
 ```
 *args creates a tuple of arguments passed to the function ```(2, 3, 4), (1, 5, 6, 10)```
 
-#### *kwargs
+#### **kwargs
 
 What about keywords arguments?
 ```multiply(a = 4, 3, 4) // Return: SyntaxError: positional argument follows keyword argument```
