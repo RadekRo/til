@@ -30,7 +30,7 @@ What about keyword arguments?\
 ```multiply(a = 4, 3, 4) // Return: SyntaxError: positional argument follows keyword argument```\
 Here comes the **kwarg argument!\
 Kwarg is a dictionary holding keypairs: keyword and it's argument.\
-Let's modify our function to allow as passing not only simple arguments but also keyword aguments.\
+Let's modify our function to allow passing not only simple arguments but also keyword aguments.\
 Keep in mind that *args should __always__ be placed before **kwargs
 ```
 def multiply(*args, **kwargs):
@@ -43,7 +43,6 @@ def multiply(*args, **kwargs):
 
 multiply(3, 4, a = 4) // Returns: 48
 ```
-
 Argument unpacking is very commonly used in Python. Keep that in mind.
 
 ---
