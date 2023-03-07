@@ -4,7 +4,7 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 47 TILs and grows..._
+_Repository consists of 48 TILs and grows..._
 
 ---
 
@@ -56,6 +56,7 @@ _Repository consists of 47 TILs and grows..._
 #### Python
 - [*args and **kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
+- [F-string](python/f-string.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing empty spaces](python/initializing-empty-spaces.md)
 - [Initializing lists filled with numbers](python/initializing-lists-filled-with-numbers.md)
