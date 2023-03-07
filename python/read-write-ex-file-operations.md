@@ -1,7 +1,8 @@
 # read/write example of file operations
 
 #### read data (function)
-```def read_table_from_file(file_name, separator=';'):
+```
+def read_table_from_file(file_name, separator=';'):
     """Read CSV file into a data table.
     Args:
         file_name: The name of the CSV data file.
@@ -14,10 +15,12 @@
             lines = file.readlines()
         return [element.replace("\n", "").split(separator) for element in lines]
     except IOError:
-        return []```
+        return []
+```
 
 #### write data (function)
-```def write_table_to_file(file_name, table, separator=';'):
+```
+def write_table_to_file(file_name, table, separator=';'):
     """Write tabular data into a CSV file.
     Args:
         file_name: The name of the file to write to.
@@ -27,7 +30,8 @@
     with open(file_name, "w") as file:
         for record in table:
             row = separator.join(record)
-            file.write(row + "\n")```
+            file.write(row + "\n")
+```
 
 Examples by __CodeCool__ IT Academy (_www.codecool.com_)
 
