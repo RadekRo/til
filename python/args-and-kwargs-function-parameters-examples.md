@@ -29,7 +29,7 @@ multiply(1, 5, 6, 10) // Returns: 300
 What about keyword arguments?\
 ```multiply(a = 4, 3, 4) // Return: SyntaxError: positional argument follows keyword argument```\
 Here comes the **kwarg argument!\
-Kwarg is a dictionary holding keypairs: keywords and it's argument.\
+Kwarg is a dictionary holding keypairs: keyword and it's argument.\
 Let's modify our function to allow as passing not only simple arguments but also keyword aguments.\
 Keep in mind that *args should __always__ be placed before **kwargs
 ```
