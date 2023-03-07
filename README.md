@@ -54,7 +54,7 @@ _Repository consists of 47 TILs and grows..._
 - [Cheatsheet](markdown/cheatsheet.md)
 
 #### Python
-- [*args and *kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
+- [*args and **kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing empty spaces](python/initializing-empty-spaces.md)
