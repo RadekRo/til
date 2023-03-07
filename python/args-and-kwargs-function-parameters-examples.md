@@ -26,7 +26,7 @@ multiply(1, 5, 6, 10) // Returns: 300
 
 #### **kwargs
 
-What about keywords arguments?\
+What about keyword arguments?\
 ```multiply(a = 4, 3, 4) // Return: SyntaxError: positional argument follows keyword argument```\
 Here comes the **kwarg argument!\
 Kwarg is a dictionary holding keypairs: keywords and it's argument.\
