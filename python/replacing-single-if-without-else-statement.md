@@ -1,6 +1,6 @@
 # replacing single if without else statement
 
-Consider situation where you want you program to do something only if something else will take place but you don't have any else statement.
+Consider situation where you want your program to do something only if something else will take place but you don't have any else statement.
 ```
 a = 2
 b = 3
@@ -20,9 +20,7 @@ In such case you can use `and` expression which can easily validate if your code
 ```
 a < b and print(a)
 ```
-Look's better? Sure it is. When the first part of the `and` expression will return `False` the second one will be omitted (not even considered).\
-
-Shorter code make it easier to read and keeps your workbench clean!
+Look's better? Sure it is. When the first part of the `and` expression will return `False` the second one will be omitted (not even considered). Shorter code make it easier to read and keeps your workbench clean!
 
 ---
 _Last update: 8 March 2023_
