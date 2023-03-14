@@ -1,7 +1,7 @@
 # one line "for" loop
 ```
 mylist = [200, 300, 400, 500]
-#Single line For loop
+
 result = [] 
 for x in mylist: 
     if x > 250: 
