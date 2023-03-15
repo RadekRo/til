@@ -65,7 +65,7 @@ _Repository consists of 52 TILs and grows..._
 - [Keyboard module](python/keyboard-module.md)
 - [Merging two dicts](python/merging-two-dicts.md)
 - [One line 'for' loop](python/one-line-for-loop.md)
-- [One line reading a file](python/one-line-reading-a-file.md)
+- [Reading a file in one-line](python/reading-a-file-in-one-line.md)
 - [Read/Write Exmaples of file operations](python/read-write-ex-file-operations.md)
 - [Replacing single if without else statement](python/replacing-single-if-without-else-statement.md)
 - [Reversing list](python/reversing-list.md)

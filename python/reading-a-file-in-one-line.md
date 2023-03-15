@@ -1,4 +1,4 @@
-# one line reading a file
+# reading a file in one-line
 ```
 with open("data.txt", "r") as file:   
     data = file.readline()   
