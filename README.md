@@ -57,7 +57,7 @@ _Repository consists of 53 TILs and grows..._
 - [*args and **kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
 - [Classes and objects](python/classes-and-objects.md)
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
-- [Enumerate() - Simplify looping with counters](python/enumerate()-sipmplify-looping-with-counters.md)
+- [Enumerate() - Simplify looping with counters](python/enumerate()-simplify-looping-with-counters.md)
 - [F-string](python/f-string.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing empty spaces](python/initializing-empty-spaces.md)
