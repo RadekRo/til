@@ -24,7 +24,7 @@ Output:
 1 b
 2 c
 ```
-enumerate() function let's you to not only interate thru the object but also following the current index.\n
+enumerate() function let's you to not only interate thru the object but also following the current index.\
 That would create more stabilized and less erroneous code with no need of increment any auxiliary variable.
 
 ---
