@@ -9,7 +9,7 @@ pygames
 
 keyboard
 ```pip install keyboard```
-[more info on this module](/python/keyboard-module.md)
+[more info about this module](/python/keyboard-module.md)
 
 ---
 _Last update: 23 Feb 2023_ 
