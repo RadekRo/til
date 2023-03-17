@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 15th of March 2023 
+###### Last Update: 17th of March 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 52 TILs and grows..._
+_Repository consists of 53 TILs and grows..._
 
 ---
 
@@ -57,6 +57,7 @@ _Repository consists of 52 TILs and grows..._
 - [*args and **kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
 - [Classes and objects](python/classes-and-objects.md)
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
+- [Enumerate() - Simplify looping with counters](python/enumerate()-sipmplify-looping-with-counters.md)
 - [F-string](python/f-string.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
 - [Initializing empty spaces](python/initializing-empty-spaces.md)
