@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 17th of March 2023 
+###### Last Update: 19th of March 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 53 TILs and grows..._
+_Repository consists of 54 TILs and grows..._
 
 ---
 
@@ -71,6 +71,7 @@ _Repository consists of 53 TILs and grows..._
 - [Replacing single if without else statement](python/replacing-single-if-without-else-statement.md)
 - [Reversing list](python/reversing-list.md)
 - [Reversing string](python/reversing-string.md)
+- [Several ways to get a list from dictionary](python/several-ways-to-get-a-list-from-dictionary.md)
 - [Sorting a list of lists](python/sorting-a-list-of_lists.md)
 - [Split a single word into the list of characters](python/split-a-single-word-into-the-list-of-characters.md)
 - [Swapping values of variables](python/swapping-values-of-variables.md)
