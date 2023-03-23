@@ -13,6 +13,6 @@ One optional parameter we can change is end. The end parameter specifies what sh
 The default of end is "\n" which tells Python to start a new line. In the code above, we changed it to space. Thus, the output returned all the elements of our list are printed on the same line.
 
 
-##### Thanks to Kurtis Pykes's _"30 Cool Python Tricks For Better Code With Examples"_
+#### Thanks to Kurtis Pykes's _"30 Cool Python Tricks For Better Code With Examples"_
 ---
 _Last update: 23 March 2023_
