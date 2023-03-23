@@ -1,4 +1,4 @@
-# the print functions "end" parameter
+# The print functions "end" parameter
 ```
 a = ["english", "french", "spanish", "german", "twi"]
 for language in a:
