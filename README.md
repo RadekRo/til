@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 19th of March 2023 
+###### Last Update: 23rd of March 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 54 TILs and grows..._
+_Repository consists of 55 TILs and grows..._
 
 ---
 
@@ -66,6 +66,7 @@ _Repository consists of 54 TILs and grows..._
 - [Keyboard module](python/keyboard-module.md)
 - [Merging two dicts](python/merging-two-dicts.md)
 - [One line 'for' loop](python/one-line-for-loop.md)
+- [The print functions 'end' parameter](python/print-functions-end-parameter.md)
 - [Reading a file in one-line](python/reading-a-file-in-one-line.md)
 - [Read/Write Exmaples of file operations](python/read-write-ex-file-operations.md)
 - [Replacing single if without else statement](python/replacing-single-if-without-else-statement.md)
