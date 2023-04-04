@@ -1,4 +1,4 @@
-# ginitializing lists filled with numbers
+# initializing lists filled with numbers
 
 Example 1\
 `a = [1]*10`\

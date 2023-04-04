@@ -1,33 +1,24 @@
-# git 
-### basic commands
+# merging two dictionaries
 
-Cloning **remote** repository to current catalogue (creates subcatalogue with repository name!)
-```git clone <repository url address>```\
-Getting all current changes made to **remote** repository
-```git pull origin <branch>```\
+##### update() method
+```
+dict_1 = {'John': 15, 'Rick': 10, 'Misa' : 12 }
+dict_2 = {'Bonnie': 18,'Rick': 20,'Matt' : 16 }
+dict_1.update(dict_2)
+print(dict_1)
+```
+Output: {'John': 15, 'Rick': 20, 'Misa': 12, 'Bonnie': 18, 'Matt': 16}\
+Have in mind that if the same key will occur dict_1 value will be overwritten by dict_2
 
-Show current **local** repository/branch status
-```git status```\
-Show all logs of **local** repository/branch
-```git log```\
-Show all current **local** repository branches (**notice** that your current branch will begin with __*__ mark.)
-```git branch```\
-Create new **local** branch
-```git branch <new branch name>```\
-Switch on **local** branch
-```git checkout <branch>```\
-Merge current **local** branch (on witch you are currently set) with given *branch*
-```git merge <branch>```\
-
-Include *file* change in the next commit
-```git add <file>```\
-Include *all changes* in the next commit
-```git add .```\
-Commit **all** the added changes.
-```git commit -m "your comment goes here"```\
-
-Send commited changes to your **remote** repository branch (**notice** that if you leave the branch empty - all branches will be sent)
-```git push origin <branch>```\
+##### using ** operator
+```
+dict_1 = {'John': 15, 'Rick': 10, 'Misa' : 12 }
+dict_2 = {'Bonnie': 18,'Rick': 20,'Matt' : 16 }
+dict_3 = {**dict_1,**dict_2}
+print(dict_3)
+```
+Output: {'John': 15, 'Rick': 20, 'Misa': 12, 'Bonnie': 18, 'Matt': 16}
+As above if the same key will occur the second dictionary will overwrite the first one.
 
 ---
-_Last update: 23 Feb 2023_ 
+_Last update: 4th Apr 2023_ 
