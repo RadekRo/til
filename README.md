@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 19th of March 2023 
+###### Last Update: 12th of April 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 54 TILs and grows..._
+_Repository consists of 55 TILs and grows..._
 
 ---
 
@@ -32,6 +32,7 @@ _Repository consists of 54 TILs and grows..._
 - [Basic commands](git/basic-commands.md)
 - [Checking exact date of the last commit](git/checking-exact-date-of-the-last-commit.md)
 - [Checking file changes](git/checking-file-changes.md)
+- [Completely delete current stash](git/completely-delete-current-stash.md)
 - [Keep tracking of a moved file](git/keep-tracking-of-a-moved-file.md)
 - [Recreating branch earlier deleted](git/recreating-branch-earlier-deleted.md)
 - [Removing file from beeing revisioned](git/remove-file-from-beeing-revisioned.md)
