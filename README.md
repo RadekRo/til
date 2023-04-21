@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 20th of April 2023 
+###### Last Update: 21st of April 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 56 TILs and grows..._
+_Repository consists of 57 TILs and grows..._
 
 ---
 
@@ -79,6 +79,7 @@ _Repository consists of 56 TILs and grows..._
 - [Split a single word into the list of characters](python/split-a-single-word-into-the-list-of-characters.md)
 - [Swapping values of variables](python/swapping-values-of-variables.md)
 - [Ternary operator](python/ternary-operator.md)
+- [Timestamp to datetime and vice-versa](python/timestamp-to-datetime-and-vice-versa.md)
 
 #### React
 - [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
