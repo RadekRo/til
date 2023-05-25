@@ -59,6 +59,7 @@ _Repository consists of 57 TILs and grows..._
 - [*args and **kwargs function parameters examples](python/args-and-kwargs-function-parameters-examples.md)
 - [Classes and objects](python/classes-and-objects.md)
 - [Cloning a list without aliasing](python/cloning-a-list-without-aliasing.md)
+- [Creating a requirements.txt file](python/creating-a-requirements_txt-file.md)
 - [Enumerate() - Simplify looping with counters](python/enumerate()-simplify-looping-with-counters.md)
 - [F-string](python/f-string.md)
 - [Getting a most frequent element from the list](python/getting-a-most-frequent-element-from-the-list.md)
@@ -79,6 +80,7 @@ _Repository consists of 57 TILs and grows..._
 - [Split a single word into the list of characters](python/split-a-single-word-into-the-list-of-characters.md)
 - [Swapping values of variables](python/swapping-values-of-variables.md)
 - [Ternary operator](python/ternary-operator.md)
+- [Timestamp to datetime and vice-versa](python/timestamp-to-datetime-and-vice-versa.md)
 
 #### React
 - [Json data file structure and retrieving data](react/json-data-file-structure-and-retrieving-data.md)
