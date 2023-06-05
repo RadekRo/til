@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 25th of May 2023 
+###### Last Update: 5th of June 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 58 TILs and grows..._
+_Repository consists of 59 TILs and grows..._
 
 ---
 
@@ -78,6 +78,7 @@ _Repository consists of 58 TILs and grows..._
 - [Several ways to get a list from dictionary](python/several-ways-to-get-a-list-from-dictionary.md)
 - [Sorting a list of lists](python/sorting-a-list-of_lists.md)
 - [Split a single word into the list of characters](python/split-a-single-word-into-the-list-of-characters.md)
+- [Standard start procedures](python/standard-start-procedures.md)
 - [Swapping values of variables](python/swapping-values-of-variables.md)
 - [Ternary operator](python/ternary-operator.md)
 - [Timestamp to datetime and vice-versa](python/timestamp-to-datetime-and-vice-versa.md)
