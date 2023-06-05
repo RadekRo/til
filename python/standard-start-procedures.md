@@ -41,10 +41,10 @@ Remember to use this command every time you are adding a new module to the proje
 ```$env:FLASK_APP="filename.py"```
 where filename.py is your main application python file
 
-```$env: FLASK_ENV="development"```
+```$env:FLASK_ENV="development"```
 to switch the current flag to development mode which has a standard debugger mode on
 
-```$env: FLASK_DEBUG="1"```
+```$env:FLASK_DEBUG="1"```
 ONLY if debugger won't be active as a standard
 
 REMEMBER TO SWITCH THE FLAG TO __"production"__ BEFORE DEPLOYING THE PROJECT.
