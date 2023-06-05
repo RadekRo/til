@@ -33,7 +33,7 @@ if you are planning to work/hash passwords
 
 and finally...
 ```pip freeze > requirements.txt```
-to create rewuirements.txt file including all needed modules and packages list.
+to create __requirements.txt__ file including all needed modules and packages list.
 Remember to use this command every time you are adding a new module to the project.
 
 ## AND FOR BOTH:
