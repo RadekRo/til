@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 5th of June 2023 
+###### Last Update: 11th of August 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 59 TILs and grows..._
+_Repository consists of 60 TILs and grows..._
 
 ---
 
@@ -97,6 +97,7 @@ _Repository consists of 59 TILs and grows..._
 - [Git for Windows](tools/git-for-windows.md)
 - [Howler.js](tools/howler-js.md)
 - [InVision Studio](tools/invision-studio.md)
+- [Microsoft Visual Studio](tools/microsoft-visual-studio.md)
 - [Node.js®](tools/node-js.md)
 - [SSH Key](tools/ssh-key.md)
 - [TailWind CSS](tools/tailwind-css.md)
