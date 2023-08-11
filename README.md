@@ -4,12 +4,13 @@
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 60 TILs and grows..._
+_Repository consists of 62 TILs and grows..._
 
 ---
 
 #### Categories:
 
+* [C#](#csharp)
 * [CSS](#css)
 * [Git](#git)
 * [HTML](#html)
@@ -21,6 +22,7 @@ _Repository consists of 60 TILs and grows..._
 * [Tools](#tools)
 
 ---
+#### C#
 
 #### CSS
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
