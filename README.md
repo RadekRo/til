@@ -22,7 +22,7 @@ _Repository consists of 63 TILs and grows..._
 * [Tools](#tools)
 
 ---
-#### C#
+#### CSHARP
 - [Database install packages (PM>) via Package Manager](csharp/database-install-packages.md)
 #### CSS
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
