@@ -1,10 +1,10 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 15th of August 2023 
+###### Last Update: 17th of August 2023 
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 
-_Repository consists of 63 TILs and grows..._
+_Repository consists of 64 TILs and grows..._
 
 ---
 
@@ -23,6 +23,7 @@ _Repository consists of 63 TILs and grows..._
 
 ---
 #### CSHARP
+- [Creating C# migrations for the Database](csharp/creating-c#-migrations.md)
 - [Database install packages (PM>) via Package Manager](csharp/database-install-packages.md)
 #### CSS
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
