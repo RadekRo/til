@@ -1,6 +1,6 @@
 ## Developer's Notebook
 ##### Created: 26th of February 2018
-###### Last Update: 17th of August 2023 
+###### Last Update: 2nd of February 2024
 
 > This is my developer's notebook which is a place to put all the things I am learning that seems to be worth of being remembered or just have at hand. 
 

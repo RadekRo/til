@@ -6,4 +6,4 @@ Add-Migration InitialCreate (InitialCreate jest propozycją nazwy)
 Update-Database (dokonuje poprawek w bazie danych zgodnych z AppContext).
 ```
 ---
-_Last update: 17 Aug 2023_ 
+_Last update: 2 Feb 2024_ 
