@@ -23,7 +23,7 @@ _Repository consists of 64 TILs and grows..._
 
 ---
 #### CSHARP
-- [Creating C# migrations for the Database](csharp/creating-c#-migrations.md)
+- [Creating C# migrations for the Database](csharp/creating-csharp-migrations.md)
 - [Database install packages (PM>) via Package Manager](csharp/database-install-packages.md)
 #### CSS
 - [display:none vs visibility:hidden](css/display-none-vs-visibility-hidden.md)
